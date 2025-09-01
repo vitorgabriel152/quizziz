@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/quizizz/', // Nome do seu repositório no GitHub
+  base: '/quizziz/', // Nome do seu repositório no GitHub
 })
